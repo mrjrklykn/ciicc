@@ -1,7 +1,7 @@
 {
     "name": "Java 11 Dev Container",
-    "features" :{
-        "ghcr.io/devcontainer/features/java:1":{
-            "version": "11"
-        }
-}}
+    "features": {
+      "ghcr.io/devcontainers/features/java:1": {
+        "version": "11"
+      }
+    }
